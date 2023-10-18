@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 ,6号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 ,24号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 ,42号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 ,57号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 ,47号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 ,2号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 ,4号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 ,7号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 ,9号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 ,10号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 ,18号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 ,20号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 ,19号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 ,21号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 ,22号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 ,23号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 ,25号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 ,28号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 ,30号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 ,34号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 ,43号[1920*1080]
+http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
